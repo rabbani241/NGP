@@ -16,3 +16,6 @@ C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csproj
 C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Form1.resources
 C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Properties.Resources.resources
 C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csproj.GenerateResource.Cache
+C:\Gitrepository\NGP\Wincrystal\bin\Debug\Wincrystal.exe.config
+C:\Gitrepository\NGP\Wincrystal\obj\Debug\Wincrystal.exe
+C:\Gitrepository\NGP\Wincrystal\obj\Debug\Wincrystal.pdb

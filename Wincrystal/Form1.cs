@@ -29,6 +29,7 @@ namespace Wincrystal
             dr.Fill(st,"products");
             rd.Load(@"C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\CrystalReport.rpt");
             rd.SetDataSource(st);
+            int a;
             crystalReportViewer1.ReportSource = rd;
         }
     }
