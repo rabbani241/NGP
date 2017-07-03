@@ -1,0 +1,18 @@
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\bin\Debug\Wincrystal.exe.config
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\bin\Debug\Wincrystal.exe
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\bin\Debug\Wincrystal.pdb
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csprojResolveAssemblyReference.cache
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Form1.resources
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Properties.Resources.resources
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csproj.GenerateResource.Cache
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.exe
+c:\users\shaik.rabbani\documents\visual studio 2013\Projects\Wincrystal\Wincrystal\obj\Debug\Wincrystal.pdb
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\bin\Debug\Wincrystal.exe.config
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.exe
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.pdb
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\bin\Debug\Wincrystal.exe
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\bin\Debug\Wincrystal.pdb
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csprojResolveAssemblyReference.cache
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Form1.resources
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.Properties.Resources.resources
+C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\obj\Debug\Wincrystal.csproj.GenerateResource.Cache
