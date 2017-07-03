@@ -25,6 +25,7 @@ namespace Wincrystal
             
             SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=atmecs;Integrated Security=True");
             SqlDataAdapter dr = new SqlDataAdapter("select*from products", cn);
+            int e;
             DataSet st = new DataSet();
             int d;
             dr.Fill(st,"products");
