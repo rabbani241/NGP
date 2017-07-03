@@ -26,6 +26,7 @@ namespace Wincrystal
             SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=atmecs;Integrated Security=True");
             SqlDataAdapter dr = new SqlDataAdapter("select*from products", cn);
             DataSet st = new DataSet();
+            int d;
             dr.Fill(st,"products");
             int c;
             rd.Load(@"C:\Users\shaik.rabbani\Desktop\Wincrystal\Wincrystal\CrystalReport.rpt");
